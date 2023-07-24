@@ -20,7 +20,7 @@ Priority: Medium
 
 网页端：
 
-[agent-gpt-output.png](.ignore/agentgpt使用报告/agent-gpt-output.png)
+[agent-gpt-output.png](agentgpt使用报告/agent-gpt-output.png)
 
 本地：
 
@@ -28,11 +28,11 @@ Priority: Medium
 
 停止AgentGPT运行后，可以选择让其生成一份总结。结果如下：
 
-[**Nike Company Profile, Products, and Financial Performance**](.ignore/agentgpt使用报告/Nike.md)
+[**Nike Company Profile, Products, and Financial Performance**](agentgpt使用报告/Nike.md)
 
 AgentGPT的全部执行过程如下：
 
-[agent-gpt-output (1).png](.ignore/agentgpt使用报告/agent-gpt-output_(1).png)
+[agent-gpt-output (1).png](agentgpt使用报告/agent-gpt-output_(1).png)
 
 ## 测试2：写一篇关于中国古代的论文
 
@@ -40,7 +40,7 @@ AgentGPT的全部执行过程如下：
 
 生成结果如下：
 
-[my-document (1).pdf](.ignore/agentgpt使用报告/my-document_(1).pdf)
+[my-document (1).pdf](agentgpt使用报告/my-document_(1).pdf)
 
 AgentGPT支持中文作为输出。
 

@@ -1,3 +1,9 @@
 site_name: 大创-大语言-文档
 theme:
     name: readthedocs
+nav:
+    - 主页: index.md
+    - lealand:
+        - lealand/agentgpt使用报告.md
+        - lealand/阅读：ChatGPT原理.md
+        - lealand/GPT_prompt吴恩达课程.md
