@@ -4,4 +4,3 @@ theme:
   highlightjs: true
 nav:
     - Home: index.md
-    - About: about.md
