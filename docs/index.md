@@ -7,7 +7,7 @@
 ## 参与编辑的方法
 1. 从[github仓库](https://github.com/Lealand23231513/DCDYY-Notion-Docs)clone到本地。
 2. 编辑文档（/docs/name/xxx）
-3. 编辑mkdocs.yml文件中的nav项。这是文件可以控制网页中各个页面的组织方式。
+3. 编辑mkdocs.yml文件中的nav项。这个文件可以控制网页中各个页面的组织方式。
 4. 编辑完成后push到仓库。
 
 ## mkdocs使用小技巧
