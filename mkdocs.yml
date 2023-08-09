@@ -9,3 +9,8 @@ nav:
         - lealand/GPT_prompt吴恩达课程.md
         - lealand/阅读论文WebGPT.md
         - lealand/babyagi使用.md
+    - feng:
+        - Feng_GPT_Agents_read/Agent-GPT使用体验.md
+        - Feng_GPT_Agents_read/Auto-GPT使用体验.md
+        - Feng_GPT_Agents_read/GPT-Academic使用体验.md
+        - Feng_GPT_Agents_read/GPT-Engineer使用.md
